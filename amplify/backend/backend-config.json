@@ -1,6 +1,6 @@
 {
   "auth": {
-    "nextstarter5603a9f1": {
+    "amplifynexttest394e979e": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

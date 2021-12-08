@@ -8,6 +8,8 @@ import Router from "next/router";
 export const getServerSideProps = async ({ req }) => {
   const { Auth } = withSSRContext({ req });
 
+  console.log({ req });
+
   let user;
 
   try {
